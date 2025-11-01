@@ -18,7 +18,7 @@ body {
   z-index: 1000;
   border-bottom: 2px solid rgba(214, 17, 17, 0.3);
   background: linear-gradient(to right, blue, purple, pink);
-  width: 100%;
+  
 }
 
 .navbar-left {
@@ -101,8 +101,8 @@ body {
 }
 
 .center-images {
-  height: 450px;
-  width: 450px;
+  height: 350px;
+  width: 350px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
