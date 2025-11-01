@@ -17,11 +17,12 @@ body {
   top: 0;
   z-index: 1000;
   border-bottom: 2px solid rgba(214, 17, 17, 0.3);
-background: linear-gradient(to right,blue,purple,pink);
+  background: linear-gradient(to right, blue, purple, pink);
+  width: 100%;
 }
 
 .navbar-left {
-  color:whitesmoke;
+  color: whitesmoke;
   font-size: 26px;
   font-weight: 800;
   cursor: pointer;
@@ -32,14 +33,12 @@ background: linear-gradient(to right,blue,purple,pink);
   transform: scale(1.1);
 }
 
-.navbar-middle{
-    font-size: 29px;
-    font-weight: 800;
-    color:#03da03;
-    text-align: center;
-    text-transform: capitalize;
-
-
+.navbar-middle {
+  font-size: 29px;
+  font-weight: 800;
+  color: #03da03;
+  text-align: center;
+  text-transform: capitalize;
 }
 .navbar-right {
   display: flex;
@@ -101,13 +100,12 @@ background: linear-gradient(to right,blue,purple,pink);
   }
 }
 
-.center-images{
-    height: 450px;
-    width: 450px;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    margin: 10px;
-    
+.center-images {
+  height: 450px;
+  width: 450px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
 }
