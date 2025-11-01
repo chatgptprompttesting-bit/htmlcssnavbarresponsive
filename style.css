@@ -52,7 +52,7 @@ background: linear-gradient(to right,blue,purple,pink);
 }
 
 .navbar-right li {
-  color: black;
+  color: whitesmoke;
   cursor: pointer;
   font-size: 16px;
   font-weight: 500;
