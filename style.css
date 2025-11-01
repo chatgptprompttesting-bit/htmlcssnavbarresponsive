@@ -38,7 +38,7 @@ background: linear-gradient(to right,blue,purple,pink);
     color:#03da03;
     text-align: center;
     text-transform: capitalize;
-    
+
 
 }
 .navbar-right {
@@ -52,7 +52,7 @@ background: linear-gradient(to right,blue,purple,pink);
 }
 
 .navbar-right li {
-  color: #333;
+  color: black;
   cursor: pointer;
   font-size: 16px;
   font-weight: 500;
